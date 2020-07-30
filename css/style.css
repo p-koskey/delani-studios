@@ -12,7 +12,7 @@ p{
     font-size: 15px;
 }
 #header{
-    background: url(/assets/backgrounds/h_img.jpg);
+    background: url(../assets/backgrounds/h_img.jpg);
     background-size: cover;
     background-attachment: fixed;
     color: white;
@@ -70,7 +70,7 @@ p{
 }
 
 #services{
-    background: url(/assets/backgrounds/s_image.jpg);
+    background: url(../assets/backgrounds/s_image.jpg);
     background-size: cover;
     color: white;
     text-align: center;
@@ -135,7 +135,7 @@ p{
 }
 
 #contact{
-    background: url(/assets/backgrounds/c_image.jpg);
+    background: url(../assets/backgrounds/c_image.jpg);
     background-size: cover;
     color: white;
     text-align: center;
